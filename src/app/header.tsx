@@ -14,6 +14,7 @@ function Header() {
                         <SheetTrigger className="">
                             <RxHamburgerMenu className="text-2xl" />
                         </SheetTrigger>
+                        <SheetTitle></SheetTitle>
                         <SheetContent className="w-56 bg-slate-300">
                             <ul className="flex flex-col justify-center gap-3 text-xl text-blue-950 mt-6">
                                 <Link href="/">Home</Link>
