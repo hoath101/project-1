@@ -6,7 +6,7 @@ function Contact(){
         <main className="">
             <div className="flex justify-center mt-8">
             <div className="bg-blue-950 rounded-lg shadow-lg p-8 w-96">
-        <h2 className="text-2xl font-bold mb-6 text-center text-white">Contact Us</h2>
+        <h2 className="text-2xl font-bold mb-6 text-center text-white">Contact Me</h2>
         <form className="border-gray-500">
             <div className="mb-4">
                 <label className="block text-sm font-medium text-white" htmlFor="name">Name</label>
